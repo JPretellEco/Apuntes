@@ -1,2 +1,2 @@
-# EstadsticaPrctica-para-Ciencia-de-Datos
+# Estadstica\ Prctica-para-Ciencia-de-Datos
 Un cuaderno de apuntes para mejorar la habilidad como Data Scientist 
